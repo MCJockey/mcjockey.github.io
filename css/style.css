@@ -2,13 +2,13 @@
 :root {
     /* --primary: #4761FF; */
     /* --primary: #D00ff00; */
-    --primary: #08851b;
+    --primary: #ef120c;
     /* --primary: #00ff00; */
     /* --primary:#198754; */
     /* --secondary: #f2a60c; */
-    --secondary: #f2a60c;
-    --light: #F1F3FA;
-    --dark: #c71610;
+    --secondary: #ffc10a;
+    --light: #ffffff;
+    --dark: #289a48;
 }
 
 .back-to-top {
